@@ -12,3 +12,4 @@ Wildan Rencana Konten :
 - Video tutor materi typescript
 - tutorial framework javaascript
  * next.js
+ * vue
