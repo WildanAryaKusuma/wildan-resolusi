@@ -2,6 +2,7 @@ Wildan Rencana Konten :
 
 - Membuat konten yang menunjukkan personal branding diri sendiri
 - Membuat konten yang berkaitan dengan pemrograman dasar seperti html css js
+- PHP 
 - Membuat konten tutorial cara bermain Hero Alice :
   * hero lainnya seperti:
   - Lapu lapu
