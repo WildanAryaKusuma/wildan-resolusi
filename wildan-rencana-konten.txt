@@ -8,3 +8,9 @@ Wildan Rencana Konten :
   - Lapu lapu
   - Minotaur
   - Natalia
+
+- Video tutor materi typescript
+- tutorial framework javaascript
+ * next.js
+ * react
+ * angular
